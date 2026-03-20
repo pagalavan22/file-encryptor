@@ -1,0 +1,5 @@
+__pycache__/ 
+*.enc 
+*.decrypted 
+testfolder/ 
+*.pyc 
